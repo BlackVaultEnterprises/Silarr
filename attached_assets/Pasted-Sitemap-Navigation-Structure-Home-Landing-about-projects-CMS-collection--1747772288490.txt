@@ -1,0 +1,73 @@
+Sitemap & Navigation Structure
+/ (Home / Landing)
+ ├─ /about
+ ├─ /projects (CMS collection)
+ │  └─ /projects/{slug}
+ ├─ /testimonials
+ ├─ /faq
+ ├─ /blog
+ ├─ /service-areas
+ ├─ /careers
+ ├─ /mortgage-calculator
+ ├─ /privacy-policy
+ └─ /terms-of-service
+Page Details & Content Focus
+/ (Home / Landing)
+Purpose: FSBO lead generation, value proposition, primary CTA.
+Content: Hero section, lead form, benefits, process, testimonials, project gallery, CTA.
+/about
+Purpose: Brand story, mission, local credibility, team introduction.
+Content: Company history, founder bio, values, “Why Choose Us” section.
+/projects
+Purpose: Visual proof, project showcase, transformation stories.
+Content: CMS-driven grid of before/after projects, each linking to a detail page.
+/projects/{slug}
+Purpose: In-depth project details, visual impact, conversion.
+Content: Before/after slider, project description, challenges, solutions, results.
+/testimonials
+Purpose: Social proof, credibility, trust-building.
+Content: Quotes, photos, names, locations, project details.
+/faq
+Purpose: Objection handling, SEO, user support.
+Content: Common questions about selling for cash, the process, fees, etc.
+/blog
+Purpose: SEO, authority, content marketing, lead generation.
+Content: Articles on FSBO tips, market trends, selling for cash, home improvement.
+/service-areas
+Purpose: Local SEO, geographic targeting, expansion.
+Content: Interactive map of York, PA and surrounding areas, list of cities/towns served, localized content for each area.
+/careers
+Purpose: Recruitment, talent acquisition, employer branding.
+Content: Open positions, company culture, benefits, application form.
+/mortgage-calculator
+Purpose: Value-add, SEO, engagement, lead generation.
+Content: Interactive calculator, loan options, contact form.
+/privacy-policy
+Purpose: Legal compliance, user trust, data protection.
+Content: Information about data collection, usage, and security.
+/terms-of-service
+Purpose: Legal compliance, user agreement, liability protection.
+Content: Terms of use for the website, disclaimers, and legal notices.
+Navigation Structure
+Primary Navigation (Header):
+Home
+About
+Projects
+Service Areas
+Careers
+Blog
+Contact
+[CTA Button: Get Offer]
+Secondary Navigation (Footer):
+Home
+About
+Projects
+Testimonials
+FAQ
+Blog
+Service Areas
+Careers
+Mortgage Calculator
+Privacy Policy
+Terms of Service
+Contact
